@@ -2,4 +2,8 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: #111;
+  color: #fff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 10px;
 }

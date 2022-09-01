@@ -12,6 +12,9 @@ ul {
   display: flex;
   justify-content: space-evenly;
   width: 500px;
+  background-color: #444;
+  padding: 10px;
+  border-radius: 10px;
 }
 
 ul li {

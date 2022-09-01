@@ -7,3 +7,9 @@ header {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   padding: 10px;
 }
+
+ul {
+  display: flex;
+  justify-content: space-evenly;
+  width: 500px;
+}
